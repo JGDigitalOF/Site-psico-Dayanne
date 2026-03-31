@@ -32,7 +32,7 @@ export function Navigation() {
   },
   {
     name: 'Especialidades',
-    href: '#especialidades'
+    href: '#areas-atuacao'
   },
   {
     name: 'Contato',

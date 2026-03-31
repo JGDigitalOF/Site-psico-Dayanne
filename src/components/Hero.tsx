@@ -35,7 +35,7 @@ export function Hero() {
             Psicanalista Clínica | CRP 07/42225 | Terapia Online
           </p>
 
-          <div className="pt-8 flex flex-col sm:flex-row items-center justify-center gap-4">
+          <div className="pt-12 md:pt-16 flex flex-col sm:flex-row items-center justify-center gap-4">
             <a
               href="#contato"
               className="group flex items-center gap-2 bg-[#D4A574] text-white px-8 py-4 rounded-full font-medium text-lg hover:bg-[#b88a5d] transition-all hover:shadow-lg hover:-translate-y-0.5"

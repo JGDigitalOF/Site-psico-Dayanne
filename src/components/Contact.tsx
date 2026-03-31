@@ -71,6 +71,22 @@ export function Contact() {
             </span>
           </div>
 
+          <div className="flex items-center gap-4">
+            <a
+              href="https://wa.me/5511951608812"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="transition-transform hover:scale-110"
+              title="JG Digital - Desenvolvido com excelência"
+            >
+              <img
+                src="/jg-digital-logo.jpg"
+                alt="JG Digital"
+                className="h-12 w-12 object-contain"
+              />
+            </a>
+          </div>
+
           <div className="text-center md:text-right text-sm text-gray-500 font-light">
             <p>
               © {new Date().getFullYear()} Dayanne Nascimento - Psicóloga Clínica

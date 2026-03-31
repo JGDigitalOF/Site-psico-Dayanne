@@ -157,7 +157,7 @@ export function Services() {
         </div>
 
         {/* Services Section */}
-        <div className="text-center max-w-2xl mx-auto mb-16 space-y-4">
+        <div id="areas-atuacao" className="text-center max-w-2xl mx-auto mb-16 space-y-4">
           <span className="text-[#D4A574] font-semibold tracking-wider uppercase text-sm">
             Áreas de Atuação
           </span>
